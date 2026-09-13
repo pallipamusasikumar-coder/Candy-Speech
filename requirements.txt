@@ -1,0 +1,10 @@
+tensorflow==2.21.0
+numpy
+librosa
+scikit-learn
+matplotlib
+pandas
+sounddevice
+soundfile
+joblib
+tqdm
